@@ -29,7 +29,7 @@ Luz e cena é uma plataforma de filmes.
 
 ## 👨‍💻 Colaboradores
 
-|[Gabriel Bolonhez Felipe](https://github.com/Gabolonhez) |
+| [Gabriel Bolonhez Felipe](https://github.com/Gabolonhez) |
 
 ## 🚧 Licença
 
