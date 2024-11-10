@@ -1,13 +1,5 @@
 # Luz e Cena
 
-## ✍🏼 Índice
-
-* [Descrição](#Descrição)
-* [Tecnologias](#Tecnologias)
-* [Funcionalidades](#Funcionalidades)
-* [Colaboradores](#Colaboradores)
-* [Licença](#Licença)
-
 ## 📑 Descrição
 
 Luz e cena é uma plataforma de filmes.
