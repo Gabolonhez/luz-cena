@@ -1,8 +1,10 @@
 # Luz e Cena
 
+![image](https://github.com/user-attachments/assets/8daebb08-a48d-4c1b-b396-8078750909f1)
+
 ## 📑 Descrição
 
-Luz e cena é uma plataforma de filmes.
+Plataforma de filmes.
 
 ## 🎯 Funcionalidades
 
@@ -17,7 +19,6 @@ Luz e cena é uma plataforma de filmes.
 `HTML`: Linguagem utilizada para desenvolver as páginas do aplicativo.
 
 `CSS`: Utilizado para estilização da interface do aplicativo.
-
 
 ## 👨‍💻 Colaboradores
 
