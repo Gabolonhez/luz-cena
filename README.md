@@ -8,17 +8,16 @@ Plataforma de filmes.
 
 ## 🎯 Funcionalidades
 
-- [x] `Cabeçalho`: Cabeçalho com informações
-- [x] `Banner`: Banner com informações
-- [X] `Lista de filme`: Lista de Filmes
-- [X] `Newsletter`: Sessão de newsletter
-- [X] `Rodapé`: Rodapé com demais informações 
+- [x] Cabeçalho com informações
+- [x] Banner com informações
+- [X] Lista de Filmes
+- [X] Sessão de newsletter
+- [X] Rodapé com demais informações 
 
 ## 💻 Tecnologias 
 
-`HTML`: Linguagem utilizada para desenvolver as páginas do aplicativo.
-
-`CSS`: Utilizado para estilização da interface do aplicativo.
+- `HTML`
+- `CSS`
 
 ## 👨‍💻 Colaboradores
 
